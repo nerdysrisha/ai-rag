@@ -5,7 +5,7 @@ lab 4 - multi-modal rag with image and text.
 lab 5 - content with ai understanding
 lab 6 - No SQL and RAG - cosmos db
 lab 7 - No SQL and RAG - mongo db
-
+lab 8 - Azure Cosmos DB with SVG Icon Search - Simple project
 
 
 
